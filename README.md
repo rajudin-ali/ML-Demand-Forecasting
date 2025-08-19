@@ -57,24 +57,4 @@ Open `notebooks/Demand_Forecasting.ipynb` for an end‑to‑end walkthrough (EDA
 - Tune lags/rolling windows and model hyperparameters.
 - Evaluate with a **time‑based** split (no shuffling).
 
-## License
-MIT
 
-
----
-
-## 🚀 Deploy ke Streamlit Cloud (Gratis)
-
-1. Push project ini ke GitHub (pastikan file `app.py` ada di root folder).
-2. Buka [https://share.streamlit.io/](https://share.streamlit.io/) dan login dengan akun GitHub.
-3. Klik **New app** → pilih repository project → branch (misal `main`) → file `app.py`.
-4. Klik **Deploy**.
-
-Setelah beberapa menit, aplikasi Anda akan tersedia secara **online gratis** dengan URL publik.
-
-Contoh tampilan aplikasi:  
-- Input tanggal, harga, dan promo.  
-- Klik tombol **Prediksi**.  
-- Aplikasi akan menampilkan hasil prediksi demand.
-
----
